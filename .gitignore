@@ -1,0 +1,1 @@
+sales/ .venv/ venv/ pycache/ *.py[cod] .env
